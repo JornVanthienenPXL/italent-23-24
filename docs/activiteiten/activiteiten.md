@@ -113,3 +113,59 @@ Teampagina:
 Scoreboard:
 
 ![Scoreboard](../assets/hackathon/scoreboard.png)
+
+### Persoonlijke Ontwikkeling
+
+#### Projectweek
+
+**Locatie activiteit:** Hogeschool PXL
+
+**Datum en duur:**  13 februari 2024 – 17 februari 2024 – 27u
+
+**Omschrijving maandag:**  Op de eerste dag van de projectweek kregen we uitleg over I-Talent, spreker gehoord over hoe je jezelf beter leert kennen en een workshop rond kernkwadranten samen met de eerste kennismaking met mijn projectgroep.
+
+**Omschrijving dinsdag:**  Dinsdag heb ik een sessie gekregen over coaching en het reflectieverslag, ook werd er de Cyber Security Challenge besproken. Later op de dag kregen we een interessant seminarie van Ann Beckers over hoe netwerken werkt en de kracht van Linked-In.
+
+**Omschrijving woensdag:**  In het midden van de projectweek kregen we uitleg over het Agile Scrum proces, gingen we hands-on aan de slag met Linked-In en was er een POP-sessie.
+
+**Omschrijving Donderdag:**  Op donderdag kreeg ik uitleg over I-Talent en internationalisering en in de namiddag was het jobbeurs waar vele IT-bedrijven aanwezig waren en ik mijn eerste aanraking met de bedrijven had.
+
+**Omschrijving Vrijdag:**  Op de laatste dag van de projectweek ben ik voor de eerste keer met mijn projectteam aan de slag gegaan binnen het Research Project.
+
+#### POP-sessies
+
+##### POP-sessie - Key To Improvement
+
+**Locatie activiteit:** Hogeschool PXL gebouw B
+
+**Datum en duur:** 15 februari 2023 – 2u
+
+**Omschrijving:**  In deze POP-sessie tijdens de projectweek was er aandacht voor het feedbackproces en hoe men dit het beste in de praktijk toepast.
+
+##### POP-sessie - POPping
+
+**Locatie activiteit:** Hogeschool PXL gebouw B
+
+**Datum en duur:** 28 februari 2023 – 2u
+
+**Omschrijving:**  Tijdens deze POP-sessie lag het onderwerp rond het feedbackproces in teamverband en hoe je dit het beste doet en welke voordelen rond open communicatie dit oplevert.
+
+##### POP-sessie - Brein aan het werk! Niet storen!
+
+**Locatie activiteit:** Hogeschool PXL gebouw G G412b
+
+**Datum en duur:** 28 februari 2023 – 2u
+
+**Omschrijving:**  Deze sessie werd de nadruk gelegd op de digitale intoxicatie. Hier was een enquête aangekoppeld wat deze intoxicatie beoordeelde en ik scoorde relatief hoog terwijl ik dacht dat ik relatief laag zou zitten, dit was een interessant reflectiemoment.
+
+##### POP-sessie – My Team and I
+
+**Locatie activiteit:** Corda Campus iSpace
+
+**Datum en duur:** 18 oktober 2023 – 2u
+
+**Omschrijving:**  Deze sessie was mede gekoppeld aan het IT-Project en hoe je met verschillende persoonlijkheden in teamverband het beste kan samenwerken. Hier kwam bijvoorbeeld de piramide van Lencioni aan te pas en hoe dit kadert binnen het team.
+
+
+## Extra activiteiten, per domein
+
