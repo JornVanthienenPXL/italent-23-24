@@ -199,3 +199,64 @@ Scoreboard:
 
 #### PXL – Hacking avond – picoCTF
 
+**Locatie activiteit:** Corda Campus iSpace
+
+**Datum en duur:**  9 november 2023 – 2u
+
+**Omschrijving:**  Tijdens deze hacking avond werd picoCTF geïntroduceerd en gingen we hands-on aan de slag met challenges. Bij dit platform moesten we flags zoeken in verschillende gebieden van security.
+
+**Bewijs:**
+
+Afgewerkte challenges:
+
+![PicoCTF](../assets/pictures/hacking-avonden/picoctf.png)
+
+#### PXL – Hacking avond – Nviso
+
+**Locatie activiteit:** Corda Campus iSpace
+
+**Datum en duur:**  23 november 2023 – 2u
+
+**Omschrijving:**  Tijdens deze hacking avond kwamen twee mensen van Nviso spreken en hebben we hands-on een HackTheBox challenge uitgewerkt. Ook werd er de Cyber Security Challenge voorgesteld.
+
+**Bewijs:**
+
+![Nviso](../assets/pictures/hacking-avonden/nviso.png)
+
+#### PXL – Hacking avond – Robbe Van Roey
+
+**Locatie activiteit:** Corda Campus iSpace
+
+**Datum en duur:**  7 december 2023 – 2u
+
+**Omschrijving:**  Tijdens deze hacking avond kwam Robbe Van Roey spreken en had hij het over zijn verhaal dat startte achter de PXL schoolbanken tot een Senior Penetration Tester. Ook was er een workshop met het Hack The Box platform.
+
+**Bewijs:** [Linked-In](https://www.linkedin.com/posts/robbe-van-roey_hackthebox-activity-7138636346952142848-_XV9/)
+
+### Internationalisering
+
+#### FOSDEM – Europeese meeting
+
+**Locatie activiteit:** ULB Solbosch Campus - Brussel
+
+**Datum en duur:**  3 februari 2024 – 8u
+
+**Omschrijving:**  Tijdens dit internationaal event kwam ik in aanraking met professionals van over de hele wereld, ik heb interessante rooms gevolgd en gepraat met verschillende mensen en organisaties die aanwezig waren.
+
+**Bewijs:**
+
+De aula waar FOSDEM gestart werd:
+
+![FOSDEM start](../assets/pictures/internationalisering/fosdem-start.jpg)
+
+### Student Engagement
+
+#### Crossroads
+
+**Locatie activiteit:** Hogeschool PXL gebouw D
+
+**Datum en duur:** 23 november 2023 – 2u
+
+**Omschrijving:**  Ik was aanwezig samen met een paar medestudenten om de afstudeerrichting SNB te vertegenwoordigen en studenten te informeren en te helpen met hun keuze in de afstudeerrichting.
+
+**Bewijs:** [Linked-In](https://www.linkedin.com/posts/maarten-sourbron~42_applicatieontwikkeling-infrastructurecloud-activity-7135908580792176640-oLPG/?originalSubdomain=nl)
