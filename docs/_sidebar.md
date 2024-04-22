@@ -1,3 +1,4 @@
 <!-- docs/_sidebar.md -->
-* [OLOD](/)
-* [0 - Set-up](00-set-up/course.md)
+* [I-Talent](/)
+* [Voorstelling](/docs/voorstelling.md)
+* [1 - Overzicht activiteiten](activiteiten/activiteiten.md)

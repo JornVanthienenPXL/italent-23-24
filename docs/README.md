@@ -2,10 +2,10 @@
   <img src="./assets/img/1314_logo_pxl_bol_witrand.png" alt="PXL logo" title="PXL logo" width="100" height="100"/>
 </div> -->
 
-![logo](image.png)
+![logo](assets/pictures/logo.png)
 
-## Course Description <!-- {docsify-ignore} -->
-This repository contains labs and exercises for the Systems Advanced: Linux course.
+## Jorn Vanthienen <!-- {docsify-ignore} -->
+I-Talent portfolio 2023-2024
 
 ---
 
