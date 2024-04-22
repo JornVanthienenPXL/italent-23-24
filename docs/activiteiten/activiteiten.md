@@ -108,11 +108,11 @@
 
 Teampagina:
 
-![Teampagina](../assets/hackathon/teampagina.png)
+![Teampagina](../assets/pictures/hackathon/teampagina.png)
 
 Scoreboard:
 
-![Scoreboard](../assets/hackathon/scoreboard.png)
+![Scoreboard](../assets/pictures/hackathon/scoreboard.png)
 
 ### Persoonlijke Ontwikkeling
 
@@ -168,4 +168,34 @@ Scoreboard:
 
 
 ## Extra activiteiten, per domein
+
+### Seminaries
+
+#### Inuits - Nomad
+
+**Locatie activiteit:** Hogeschool PXL gebouw G G410
+
+**Datum en duur:** 9 mei 2023 – 3u
+
+**Omschrijving:** Dit was een interessant seminarie wat ging over een Kubernetes alternatief genaamd Nomad van Hashicorp. Hier kwamen de grote verschillen aan bod en in welk scenario je dit zou inzetten.
+
+**Bewijs:**
+
+![Inuits Nomad bewijs](../assets/pictures/seminaries/inuits-nomad-bewijs.png)
+
+#### Inuits - Open Source Café | Hasselt 2024
+
+**Locatie activiteit:** Corda Campus Corda 1
+
+**Datum en duur:** 13 maart 2024 – 4u
+
+**Omschrijving:**  Tijdens dit event werden enkele presentaties gegeven over wat opensourcesoftware nu net is en hoe AI slim kan ingezet worden en hoe je modellen traint om deze voor specifieke gebruiksdoelen in te zetten. Verder was er ook een netwerkmoment om met verschillende professionals te praten.
+
+**Bewijs:**
+
+![Inuits oss cafe](../assets/pictures/seminaries/inuits-oss-cafe-inschrijving.png)
+
+![Inuits Nomad bewijs](../assets/pictures/seminaries/inuits-oss-cafe-linkedin.png)
+
+#### PXL – Hacking avond – picoCTF
 

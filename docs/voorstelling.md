@@ -19,6 +19,7 @@ Sindsdien ben ik heel actief binnen de IT-sector geworden en ben ik mijn weg beg
 Naarmate ik naar het einde van mijn opleiding ging en mijn afstudeerrichting gekozen had, begon ik een vrij goede voorstelling van het IT landschap te hebben. Hierdoor heb ik mezelf gevonden binnen het cloud en DevOps gebeuren. Verder ben ik ook vanuit persoonlijke interesse het IoT landschap beginnen verkennen.
 
 Als ik naar de toekomst kijk, zou ik mij graag verder ontwikkelen binnen het DevOps verhaal, maar dit met een IoT insteek. Mijn plan is om na de opleiding doelgericht te gaan solliciteren bij bedrijven waar de focus op DevOps ligt. Zo hoop ik in de komende jaren de DevOps mindset volledig te kunnen toepassen gecombineerd met IoT projecten.
+
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons-Licentie" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /> Content on this site is licenced under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International licence</a>.
